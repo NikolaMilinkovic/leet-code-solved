@@ -3,4 +3,4 @@ A complete list of solved LeetCode problems.
 
 [LeetCode Profile](https://leetcode.com/u/NikolaMilinkovic/) ✨
 
-![Leetcode Stats](https://leetcode.com/u/NikolaMilinkovic/)
+![LeetCode Stats](https://leetcode.card.workers.dev/NikolaMilinkovic?theme=nord&font=baloo&extension=null)
