@@ -1,6 +1,6 @@
 # Leet Code Solved
 A complete list of solved LeetCode problems.<br>
-Intention is to try and solve at minimum 5 problems weekly or 1 problem daily.
+Intention is to try and solve the NeetCode 150 leetcode questions to further develop my skills in JS.
 
 LeetCode Profile [NikolaMilinkovic](https://leetcode.com/u/NikolaMilinkovic/) ✨
 
